@@ -1,7 +1,7 @@
 ## Hi there ,I'M CODY👋
 
 computational social scientist
-**whiteqrow/whiteqrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
  
 ### Data | Society | Systems | Strategy  
 
